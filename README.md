@@ -1,4 +1,4 @@
-# Portfólio Pessoal - Anisio Gomes
+# Portfólio Pessoal - Anisio Gonçalves
 
 Versão reorganizada em estilo inspirado num perfil GitHub:
 - coluna lateral com cartão de perfil
